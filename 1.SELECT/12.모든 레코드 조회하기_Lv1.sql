@@ -1,0 +1,4 @@
+-- ✅ MySQL & Oracle 공통
+SELECT *
+FROM ANIMAL_INS
+ORDER BY ANIMAL_ID ASC;
